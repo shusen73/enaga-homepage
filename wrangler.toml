@@ -1,0 +1,7 @@
+name = "enaga-homepage"
+compatibility_date = "2025-08-14"
+
+[assets]
+directory = "./src"
+exclude = ["node_modules", ".git", ".github"]
+
